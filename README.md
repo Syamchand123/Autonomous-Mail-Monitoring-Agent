@@ -5,6 +5,26 @@ A sophisticated AI agent designed to fully automate the tedious workflow of moni
 
 ---
 
+
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+
+
+---
+
+### Table of Contents
+1.  [The Problem](#the-problem-)
+2.  [The Solution](#the-solution-)
+3.  [Core Features](#-core-features)
+4.  [System Workflow](#-system-workflow)
+5.  [Tech Stack](#-tech-stack)
+6.  [Setup & Configuration](#-setup--configuration)
+7.  [Usage](#-usage)
+8.  [Project Roadmap](#-project-roadmap)
+
+---
 ### The Problem 😫
 The placement season for any student is a period of high stress and information overload. My inbox was flooded with dozens of emails about job opportunities, test schedules, and company announcements. Manually tracking deadlines, researching each company, and preparing for interviews was time-consuming, repetitive, and prone to human error. I needed a way to automate this entire process.
 
