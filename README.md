@@ -1,4 +1,4 @@
-# Autonomous Placement Prep Agent 🤖
+# Autonomous Mail Monitoring Agent 🤖
 
 A sophisticated AI agent designed to fully automate the tedious workflow of monitoring, analyzing, and preparing for university placement opportunities. This agent acts as a personal assistant, turning hours of manual work into a seamless, automated background process.
 
@@ -29,7 +29,7 @@ A sophisticated AI agent designed to fully automate the tedious workflow of moni
 The placement season for any student is a period of high stress and information overload. My inbox was flooded with dozens of emails about job opportunities, test schedules, and company announcements. Manually tracking deadlines, researching each company, and preparing for interviews was time-consuming, repetitive, and prone to human error. I needed a way to automate this entire process.
 
 ### The Solution ✨
-I engineered the **Autonomous Placement Prep Agent**, a smart system that acts as my personal secretary. It runs 24/7 in the background, reads my emails, understands them using AI, and takes action. It organizes my schedule, does my initial research, and delivers a concise, actionable preparation guide directly to my phone, ensuring I never miss an opportunity and can focus my energy on what truly matters: preparing for the interviews.
+I engineered the **Autonomous Mail Monitoring Agent**, a smart system that acts as my personal secretary. It runs 24/7 in the background, reads my emails, understands them using AI, and takes action. It organizes my schedule, does my initial research, and delivers a concise, actionable preparation guide directly to my phone, ensuring I never miss an opportunity and can focus my energy on what truly matters: preparing for the interviews.
 
 ---
 
