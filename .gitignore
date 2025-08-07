@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets and Tokens - VERY IMPORTANT
+.env
+token.json
+credentials.json
