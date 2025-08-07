@@ -9,7 +9,7 @@ A sophisticated AI agent designed to fully automate the tedious workflow of moni
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+
 
 
 ---
